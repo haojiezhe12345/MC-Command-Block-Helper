@@ -1,4 +1,4 @@
-# Minecraft_Command_Block_Helper
+# Minecraft Command Block Helper
 
 Are you worried about generating something with a command +NBT is too difficult for you?
 
